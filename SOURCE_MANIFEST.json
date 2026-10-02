@@ -1,0 +1,38 @@
+{
+  "client/project.godot": {
+    "origin": "godot-example/project.godot",
+    "source_sha256": "4d2bf6a22605e22a08726520e824d9a75e0ffad0cb0747c191569fb71af4422b",
+    "sha256": "00ad4b8a8907e2efe6d45779dbe0c2848bd8b2ef2bf2306ad3368e7fdbaf6cb5",
+    "modified": true
+  },
+  "client/main.tscn": {
+    "origin": "godot-example/main.tscn",
+    "source_sha256": "388244a350c4e63e9bbc798a176e6703cc70e22e4cb17625c41b81d92dce4104",
+    "sha256": "388244a350c4e63e9bbc798a176e6703cc70e22e4cb17625c41b81d92dce4104",
+    "modified": false
+  },
+  "client/main.gd": {
+    "origin": "godot-example/main.gd",
+    "source_sha256": "4d5b52f8907cbce298c553f0e9b50f4fe9a759cdd220816602c1ccc1a6be72ff",
+    "sha256": "64a53f9c0dcc77e388465ae4c5f9e7851b1b499303b0687f6942f315c4cbc6bf",
+    "modified": true
+  },
+  "client/main.gd.uid": {
+    "origin": "godot-example/main.gd.uid",
+    "source_sha256": "7371f0d995ee51a63eaec9640533385e40e5ac1c511d2e788f40a83e29a2a29e",
+    "sha256": "7371f0d995ee51a63eaec9640533385e40e5ac1c511d2e788f40a83e29a2a29e",
+    "modified": false
+  },
+  "client/api/merchant_api.gd": {
+    "origin": "godot-example/api/merchant_api.gd",
+    "source_sha256": "9e948181c1e9a7e65034fa9834bb5d28973d8cc9685deacb3b0de0487a2107cc",
+    "sha256": "a1f1136faa520b12774ef47cafda6a284c88885e2797def5968f3597216591b9",
+    "modified": true
+  },
+  "client/api/merchant_api.gd.uid": {
+    "origin": "godot-example/api/merchant_api.gd.uid",
+    "source_sha256": "fd82806055c4cbe8cc1e50eef50e14bff27403b2009a0c6c612aaf4a7d1bbb3c",
+    "sha256": "fd82806055c4cbe8cc1e50eef50e14bff27403b2009a0c6c612aaf4a7d1bbb3c",
+    "modified": false
+  }
+}

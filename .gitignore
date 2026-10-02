@@ -1,0 +1,10 @@
+.godot/
+client/.godot/
+test-data/
+client/test-data/
+*.log
+.env
+.env.*
+*.sqlite*
+*.db
+merchant-session-*.json
